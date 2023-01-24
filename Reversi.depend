@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1674159992 source:d:\going to git\software development - c++\reversi\reversi\main.cpp
+	"Game_Manager.h"
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+
+1674159404 d:\going to git\software development - c++\reversi\reversi\game_manager.h
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1674160037 source:d:\going to git\software development - c++\reversi\reversi\game_manager.cpp
+	"Game_Manager.h"
+
