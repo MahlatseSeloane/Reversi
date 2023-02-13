@@ -16,7 +16,7 @@
 <h2>Input format</h2>
 <p>The input file would contain a list of board sizes that would be used to test the two algorithms against each other. The input file had the following format</p>
 
-PUT PICTURE HERE
+<img src="https://imgur.com/fqfXIWT.png" height = "70%" width = "70%" />
 
 <h2>Output format</h2>
 <p>The program must produce an output file named results.txt. This file must contain the following:
@@ -30,7 +30,6 @@ The history for each board size listed in the input file must be appended to thi
 Below is an exapmle of the output file for the games of the boardsizes in the input file:
 </p>
 
-PUT PICTURE HERE
-<p>Note that coordinates on the board are labelled using the value of the row (r) and column (c) where the top left position is r0c0 and bottom right is r5c5 for a board of size 4 x 4.</p>
+<img src="https://imgur.com/CsrBjJW.png" height = "70%" width = "70%" />
 
-Below is the graphical representation of the game play.
+<p>Note that coordinates on the board are labelled using the value of the row (r) and column (c) where the top left position is r0c0 and bottom right is r5c5 for a board of size 4 x 4.</p>
